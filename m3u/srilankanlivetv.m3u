@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1, Rupavahini tvg-logo="http://i.imgur.com/k6ZFDxU.png"
+#EXTINF:-1 tvg-name="Rupavahini" tvg-logo="http://i.imgur.com/k6ZFDxU.png", [Rupavahini]
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 #EXTINF:-1, ITN
 http://cdncities.com/itndvr2/itndvr2/chunklist.m3u8
