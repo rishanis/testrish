@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-name="Rupavahini" tvg-logo="http://i.imgur.com/k6ZFDxU.png", [Rupavahini]
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
-#EXTINF:-1, ITN
+#EXTINF:-1 tvg-name="ITN" tvg-logo="http://i.imgur.com/Gw59N68.jpg", [ITN]
 http://cdncities.com/itndvr2/itndvr2/chunklist.m3u8
-#EXTINF:-1, Hiru TV
+#EXTINF:-1 tvg-name="Hiru TV" tvg-logo="http://i.imgur.com/LXDQbji.jpg", [Hiru TV]
 http://cp1.serverse.com:1935/8012/8012/media.m3u8
-#EXTINF:-1, Dubai One HD
+#EXTINF:-1 tvg-name="Dubai One HD" tvg-logo="http://i.imgur.com/lkMtAiI.png", [Dubai One HD]
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
