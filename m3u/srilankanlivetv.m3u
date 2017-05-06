@@ -9,3 +9,5 @@ http://cp1.serverse.com:1935/8012/8012/media.m3u8
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="http://i.imgur.com/v4gBPhG.png", [Sun TV HD]
 http://wowza2-live.cinesoft.net/dwan/smil:suntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Vijay TV HD" tvg-logo="http://i.imgur.com/v4gBPhG.png", [Vijay TV HD]
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Vijay_hs.smil/chunklist.m3u8
