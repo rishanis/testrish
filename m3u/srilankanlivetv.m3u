@@ -7,3 +7,5 @@ http://cdncities.com/itndvr2/itndvr2/chunklist.m3u8
 http://cp1.serverse.com:1935/8012/8012/media.m3u8
 #EXTINF:-1 tvg-name="Dubai One HD" tvg-logo="http://i.imgur.com/lkMtAiI.png", [Dubai One HD]
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="http://i.imgur.com/v4gBPhG.png", [Sun TV HD]
+http://wowza2-live.cinesoft.net/dwan/smil:suntv.smil/playlist.m3u8
