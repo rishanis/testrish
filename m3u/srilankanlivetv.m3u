@@ -12,4 +12,4 @@ http://wowza2-live.cinesoft.net/dwan/smil:suntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Vijay TV HD" tvg-logo="http://i.imgur.com/JukAIpJ.jpg", [Vijay TV HD]
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Vijay_hs.smil/chunklist.m3u8
 #EXTINF:-1, [Swarnawahini]
-plugin://plugin.video.youtube/play/?video_id=NM6dLSVvx5I
+https://www.youtube.com/watch?v=NM6dLSVvx5I
