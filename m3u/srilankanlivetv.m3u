@@ -9,7 +9,7 @@ http://cp1.serverse.com:1935/8012/8012/media.m3u8
 http://dcunilive16-lh.akamaihd.net/i/dclive_1@304014/index_150_av-p.m3u8
 #EXTINF:-1 tvg-name="TNL" tvg-logo="http://i.imgur.com/Wqk5oX2.png", [TNL]
 http://128.199.195.133:8081/live/tvlive/chunks.m3u8?nimblesessionid=886464
-#EXTINF:-1 tvg-name="Channel Eye" tvg-logo="http://i.imgur.com/MreNNuX.png", [Channel Eye]
+#EXTINF:-1 tvg-name="Nethra TV" tvg-logo="http://i.imgur.com/MoOIYWO.jpg", [Nethra TV]
 http://dammikartmp.tulix.tv/slrc2/slrc2/chunklist.m3u8
 #EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="http://i.imgur.com/v4gBPhG.png", [Sun TV HD]
 http://wowza2-live.cinesoft.net/dwan/smil:suntv.smil/playlist.m3u8
