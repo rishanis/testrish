@@ -5,10 +5,8 @@ http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 http://cdncities.com/itndvr2/itndvr2/chunklist.m3u8
 #EXTINF:-1 tvg-name="Hiru TV" tvg-logo="http://i.imgur.com/LXDQbji.jpg", [Hiru TV]
 http://cp1.serverse.com:1935/8012/8012/media.m3u8
-#EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="", [Siyatha TV]
+#EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="http://i.imgur.com/uZBe5tj.jpg", [Siyatha TV]
 http://dcunilive16-lh.akamaihd.net/i/dclive_1@304014/index_150_av-p.m3u8
-#EXTINF:-1 tvg-name="Swarnawahini" tvg-logo="http://i.imgur.com/uZBe5tj.jpg", [Swarnawahini]
-https://youtu.be/OsKvuc17vek
 #EXTINF:-1 tvg-name="TNL" tvg-logo="http://i.imgur.com/Wqk5oX2.png", [TNL]
 http://128.199.195.133:8081/live/tvlive/chunks.m3u8
 #EXTINF:-1 tvg-name="Nethra TV" tvg-logo="http://i.imgur.com/MoOIYWO.jpg", [Nethra TV]
