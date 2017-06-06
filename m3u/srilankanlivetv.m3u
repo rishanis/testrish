@@ -5,14 +5,12 @@ http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 http://cdncities.com/itndvr2/itndvr2/chunklist.m3u8
 #EXTINF:-1 tvg-name="Hiru TV" tvg-logo="http://i.imgur.com/LXDQbji.jpg", [Hiru TV]
 http://cp1.serverse.com:1935/8012/8012/media.m3u8
-#EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="http://i.imgur.com/uZBe5tj.jpg", [Siyatha TV]
-http://dcunilive16-lh.akamaihd.net/i/dclive_1@304014/index_150_av-p.m3u8
 #EXTINF:-1 tvg-name="TNL" tvg-logo="http://i.imgur.com/Wqk5oX2.png", [TNL]
 http://128.199.195.133:8081/live/tvlive/playlist.m3u8
+#EXTINF:-1 tvg-name="Colombo TV" tvg-logo="http://i.imgur.com/RfLleS3.jpg", [Colombo TV]
+http://dcunilive23-lh.akamaihd.net/i/dclive_1@395073/index_150_av-p.m3u8
 #EXTINF:-1 tvg-name="Nethra TV" tvg-logo="http://i.imgur.com/MoOIYWO.jpg", [Nethra TV]
 http://dammikartmp.tulix.tv/slrc2/slrc2/chunklist.m3u8
-#EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="http://i.imgur.com/v4gBPhG.png", [Sun TV HD]
-http://wowza2-live.cinesoft.net/dwan/smil:suntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Vijay TV HD" tvg-logo="http://i.imgur.com/JukAIpJ.jpg", [Vijay TV HD]
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Vijay_hs.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Vanavil TV" tvg-logo="", [Vanavil TV]
@@ -21,6 +19,4 @@ http://jkzqgw3zrm9o.hls.live.wmncdn.net/vaanaviltv/live.stream/tracks-v1a1/index
 http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="Dubai One HD" tvg-logo="http://i.imgur.com/lkMtAiI.png", [Dubai One HD]
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Eng HD" tvg-logo="http://i.imgur.com/mHTONQs.jpg", [Al Jazeera Eng 1080p]
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
