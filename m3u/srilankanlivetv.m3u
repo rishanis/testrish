@@ -9,14 +9,6 @@ http://cp1.serverse.com:1935/8012/8012/media.m3u8
 http://128.199.195.133:8081/live/tvlive/playlist.m3u8
 #EXTINF:-1 tvg-name="Colombo TV" tvg-logo="http://i.imgur.com/RfLleS3.jpg", [Colombo TV]
 http://dcunilive23-lh.akamaihd.net/i/dclive_1@395073/index_150_av-p.m3u8
-#EXTINF:-1 tvg-name="Nethra TV" tvg-logo="http://i.imgur.com/MoOIYWO.jpg", [Nethra TV]
-http://dammikartmp.tulix.tv/slrc2/slrc2/chunklist.m3u8
-#EXTINF:-1 tvg-name="Vijay TV HD" tvg-logo="http://i.imgur.com/JukAIpJ.jpg", [Vijay TV HD]
-http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Vijay_hs.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Vanavil TV" tvg-logo="", [Vanavil TV]
-http://jkzqgw3zrm9o.hls.live.wmncdn.net/vaanaviltv/live.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="MK TV" tvg-logo="", [MK TV]
-http://edgecastmktv.purplestream.in/mktv/ngrp:mknews_all/chunklist.m3u8
 #EXTINF:-1 tvg-name="Dubai One HD" tvg-logo="http://i.imgur.com/lkMtAiI.png", [Dubai One HD]
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 
