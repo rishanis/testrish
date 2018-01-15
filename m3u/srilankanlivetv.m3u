@@ -9,3 +9,5 @@ http://cp1.serverse.com:1935/8012/8012/media.m3u8
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN US" tvg-logo="https://i.imgur.com/FhNZSH8.png", [CNN US]
 http://109.123.114.178:1935/Livenewson/Livenewson12/playlist.m3u8
+#EXTINF:-1 tvg-name="PLANET EARTH", [PLANET EARTH]
+http://www.bogotobogo.com/VideoStreaming/Files/HLS/playlist.m3u8
