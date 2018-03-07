@@ -7,10 +7,4 @@ http://cdncities.com/itndvr2/itndvr2/chunklist.m3u8
 http://cp1.serverse.com:1935/8012/8012/media.m3u8
 #EXTINF:-1 tvg-name="Dubai One HD" tvg-logo="http://i.imgur.com/lkMtAiI.png", [Dubai One HD]
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-<<<<<<< HEAD
-=======
-#EXTINF:-1 tvg-name="CNN US" tvg-logo="https://i.imgur.com/FhNZSH8.png", [CNN US]
-http://109.123.114.178:1935/Livenewson/Livenewson12/playlist.m3u8
-#EXTINF:-1 tvg-name="PLANET EARTH", [PLANET EARTH]
-http://www.bogotobogo.com/VideoStreaming/Files/HLS/playlist.m3u8
->>>>>>> origin/master
+
