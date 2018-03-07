@@ -7,4 +7,5 @@ http://cdncities.com/itndvr2/itndvr2/chunklist.m3u8
 http://cp1.serverse.com:1935/8012/8012/media.m3u8
 #EXTINF:-1 tvg-name="Dubai One HD" tvg-logo="http://i.imgur.com/lkMtAiI.png", [Dubai One HD]
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://i.imgur.com/uZBe5tj.jpg", [Siyatha TV]
+http://live.siyathatv.lk:19904/hls/test.m3u8
