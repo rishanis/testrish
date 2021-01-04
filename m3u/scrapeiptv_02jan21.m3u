@@ -11401,8 +11401,6 @@ http://185.246.210.44:2200/B-EX/Mega_Channel_QHD-gr/index.m3u8?token=RED_q-aNvc7
 #EXTINF:-1 tvg-id"48916" group-title="GR",MAKEDONIA_TV_HD
 http://89.187.169.205:2200/B-EX/Makedonia_TV_HD-gr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"48921" group-title="GR",KONTRA_TV_QHD
 http://185.93.2.137:2200/B-EX/Kontra_TV_QHD-gr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -11979,12 +11977,6 @@ http://185.246.210.46:2200/EX/N-SWE/TV12_HD-sc/index.m3u8?token=RED_q-aNvc70-pJw
 #EXTINF:-1 tvg-id"49252" group-title="SWE",N
 http://195.181.172.83:2200/EX/N-SWE/Fox_HD-sc/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id"49255" group-title="SWE",N
 http://185.246.210.45:2200/EX/N-SWE/C_More_Stars_HD-sc/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -12213,7 +12205,7 @@ http://89.187.169.205:2200/N-EX/AF_TNT_Events_Senegal-af/index.m3u8?token=RED_q-
 #EXTINF:-1 tvg-id"49346" group-title="AF",AF_TVS_SENEGAL
 http://195.181.172.83:2200/N-EX/AF_TVS_Senegal-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"49347" group-title="ECOLE",AF_TELE
+#EXTINF:-1 tvg-id"49347" group-title="AF",AF_TELE
 http://185.246.210.45:2200/N-EX/AF_tele-ecole-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"49348" group-title="AF",RAF_AFRICACABLE_ML
@@ -13353,7 +13345,7 @@ http://185.246.210.47:2200/N-EX/AF_RTI1-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4
 #EXTINF:-1 tvg-id"49728" group-title="AF",AF_RTI2
 http://185.93.2.137:2200/N-EX/AF_RTI2-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"49729" group-title="_TAMAZIGHE_MA",AF_RTM8_
+#EXTINF:-1 tvg-id"49729" group-title="AF",AF_RTM8_
 http://89.187.169.204:2200/N-EX/AF_RTM8_-_TAMAZIGHE_MA-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"49730" group-title="AF",AF_RTV__RW
@@ -13458,7 +13450,7 @@ http://89.187.169.206:2200/N-EX/AF__NTA_Haussa_NG-af/index.m3u8?token=RED_q-aNvc
 #EXTINF:-1 tvg-id"49764" group-title="AF",YAF_ARISE_NEWS
 http://89.187.169.204:2200/N-EX/YAF_Arise_News-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"49765" group-title="_GAMBIA",RAF_GRTS_
+#EXTINF:-1 tvg-id"49765" group-title="AF",RAF_GRTS_
 http://185.246.210.46:2200/N-EX/RAF_GRTS_-_Gambia-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"49766" group-title="AF",AF_LIBYAS_CHANNEL
@@ -13488,12 +13480,8 @@ http://89.187.169.206:2200/EX/Sky_Sports_Arena_FHD-uk/index.m3u8?token=RED_q-aNv
 #EXTINF:-1 tvg-id"49795" group-title="UK",SKY_SPORTS_MIX_FHD
 http://89.187.169.203:2200/EX/Sky_Sports_Mix_FHD-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"49795" group-title="UK",SKY_SPORTS_MIX_FHD
 http://185.59.222.171:2200/EX/Sky_Sports_Mix_FHD-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"49797" group-title="UK",BT_SPORT_EXTRA_1
 http://185.246.210.45:2200/EX/BT_Sport_Extra_1-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -13891,13 +13879,13 @@ http://185.246.210.44:2200/AFR-EX/E_TV_Africa-dstv/index.m3u8?token=RED_q-aNvc70
 #EXTINF:-1 tvg-id"49975" group-title="DSTV",AFRICA_MAGIC_SHOWCASE_HD
 http://89.187.169.205:2200/AFR-EX/Africa_Magic_Showcase_HD-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"49976" group-title="NET_MOVIES_PREMIERE_AFRICA_HD",M
+#EXTINF:-1 tvg-id"49976" group-title="DSTV",M
 http://89.187.169.205:2200/AFR-EX/M-Net_Movies_Premiere_Africa_HD-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"49977" group-title="NET_MOVIES_ACTION_AFRICA",M
+#EXTINF:-1 tvg-id"49977" group-title="DSTV",M
 http://185.246.210.48:2200/AFR-EX/M-Net_Movies_Action_Africa-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"49978" group-title="NET_MOVIES_ACTION_PLUS_AFRICA",M
+#EXTINF:-1 tvg-id"49978" group-title="DSTV",M
 http://89.187.169.203:2200/AFR-EX/M-Net_Movies_Action_Plus_Africa-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"49979" group-title="DSTV",SUPERSPORT_LALIGA_FHD
@@ -13927,7 +13915,7 @@ http://185.246.210.47:2200/AFR-EX/EWTN_Africa-dstv/index.m3u8?token=RED_q-aNvc70
 #EXTINF:-1 tvg-id"49987" group-title="DSTV",DSTV_AFRICA_DISH_ON_TV_GUIDE
 http://89.187.169.201:2200/AFR-EX/DSTV_Africa_Dish_on_TV_Guide-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"49988" group-title="NET_AFRICA_HD",M
+#EXTINF:-1 tvg-id"49988" group-title="DSTV",M
 http://89.187.169.201:2200/AFR-EX/M-Net_Africa_HD-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"49990" group-title="DSTV",SUPERSPORT_MAXIMO_1_HD
@@ -14062,16 +14050,16 @@ http://185.246.210.45:2200/AFR-EX/MojaLove-dstv/index.m3u8?token=RED_q-aNvc70-pJ
 #EXTINF:-1 tvg-id"50034" group-title="DSTV",MINDSET_HD
 http://185.246.210.44:2200/AFR-EX/Mindset_HD-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"50035" group-title="NET_MOVIES_SMILE",M
+#EXTINF:-1 tvg-id"50035" group-title="DSTV",M
 http://89.187.169.202:2200/AFR-EX/M-Net_Movies_Smile-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"50037" group-title="NET_MOVIES_ALL_STARS_HD",M
+#EXTINF:-1 tvg-id"50037" group-title="DSTV",M
 http://185.246.210.44:2200/AFR-EX/M-Net_Movies_All_Stars_HD-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"50038" group-title="NET_MOVIES_ACTION_PLUS",M
+#EXTINF:-1 tvg-id"50038" group-title="DSTV",M
 http://89.187.169.204:2200/AFR-EX/M-Net_Movies_Action_Plus-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"50039" group-title="NET_MOVIES_ACTION",M
+#EXTINF:-1 tvg-id"50039" group-title="DSTV",M
 http://89.187.169.201:2200/AFR-EX/M-Net_Movies_Action-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"50040" group-title="DSTV",LESOTHO_TV
@@ -14152,13 +14140,13 @@ http://185.246.210.47:2200/AFR-EX/Al_Jazeera-dstv/index.m3u8?token=RED_q-aNvc70-
 #EXTINF:-1 tvg-id"50065" group-title="DSTV",1_KZN
 http://89.187.169.201:2200/AFR-EX/1_KZN-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"50066" group-title="NET",M
+#EXTINF:-1 tvg-id"50066" group-title="DSTV",M
 http://185.59.222.171:2200/AFR-EX/M-Net-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"50067" group-title="DSTV",ENCA
 http://185.246.210.48:2200/AFR-EX/eNCA-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"50068" group-title="NET_PLUS_1",M
+#EXTINF:-1 tvg-id"50068" group-title="DSTV",M
 http://89.187.169.203:2200/AFR-EX/M-Net_Plus_1-dstv/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"50069" group-title="DSTV",SUPERSPORT_BLITZ_FHD
@@ -14415,22 +14403,6 @@ http://185.246.210.48:2200/EX/Ppv08-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4Rfzg
 
 #EXTINF:-1 tvg-id"50533" group-title="UK",PPV09
 http://89.187.169.205:2200/EX/Ppv09-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id"50609" group-title="BR",AFAZENDA
 http://50.7.34.154:2200/PY-N/Afazenda-br/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -14906,7 +14878,7 @@ http://185.93.2.137:2200/EX/KCN_2_HD-balkan/index.m3u8?token=RED_q-aNvc70-pJwH7_
 #EXTINF:-1 tvg-id"50909" group-title="BALKAN",KCN_3_HD
 http://185.246.210.48:2200/EX/KCN_3_HD-balkan/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"50910" group-title="_SPORT_",
+#EXTINF:-1 tvg-id"50910" group-title="BALKAN",
 http://89.187.169.201:2200/EX/-_Sport_--balkan/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"50919" group-title="BALKAN",FIGHT_CHANNEL_WORLD_HD
@@ -15212,8 +15184,6 @@ http://195.181.172.83:2200/R-EX/CHANNEL_9-in/index.m3u8?token=RED_q-aNvc70-pJwH7
 #EXTINF:-1 tvg-id"51034" group-title="IN",CHANNEL_24
 http://185.246.210.44:2200/R-EX/CHANNEL_24-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"51037" group-title="IN",BTV_WORLD
 http://185.93.2.137:2200/R-EX/BTV_WORLD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -15238,12 +15208,8 @@ http://185.59.222.171:2200/R-EX/ANANDA_TV-in/index.m3u8?token=RED_q-aNvc70-pJwH7
 #EXTINF:-1 tvg-id"51045" group-title="IN",BANGLA_AAKAAS
 http://185.246.210.47:2200/R-EX/BANGLA_AAKAAS-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"51048" group-title="IN",NTV_NEWS_HD
 http://89.187.169.203:2200/R-EX/NTV_NEWS_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"51050" group-title="IN",24_NEWS_LIVE_TV
 http://185.246.210.45:2200/R-EX/24_NEWS_LIVE_TV-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -15260,15 +15226,11 @@ http://185.246.210.45:2200/R-EX/AAJ_ENTERTAINMENT-in/index.m3u8?token=RED_q-aNvc
 #EXTINF:-1 tvg-id"51055" group-title="IN",AAJ_NEWS
 http://185.59.222.171:2200/R-EX/AAJ_NEWS-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"51058" group-title="IN",ARUJ_TV
 http://195.181.172.83:2200/R-EX/ARUJ_TV-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"51059" group-title="IN",ARY_DIGITAL_
 http://89.187.169.206:2200/R-EX/ARY_DIGITAL_-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"51062" group-title="IN",ARY_NEWS_
 http://89.187.169.205:2200/R-EX/ARY_NEWS_-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -15401,8 +15363,3 @@ http://185.246.210.45:2200/R-EX/PUBLIC_MUSIC-in/index.m3u8?token=RED_q-aNvc70-pJ
 
 #EXTINF:-1 tvg-id"51179" group-title="IN",PUBLIC_MOVIES
 http://89.187.169.203:2200/R-EX/PUBLIC_MOVIES-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
-
-
-
