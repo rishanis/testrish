@@ -363,8 +363,6 @@ http://185.246.210.48:2200/TN/afak-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgN
 #EXTINF:-1 tvg-id"950" group-title="AR",AMHARATV
 http://89.187.169.204:2200/TR/amharatv-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"1024" group-title="AR",SALAMTV
 http://185.246.210.48:2200/TN/salamtv-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -1124,8 +1122,6 @@ http://185.59.222.171:2200/TR/ciftcitvhd-tr/index.m3u8?token=RED_q-aNvc70-pJwH7_
 #EXTINF:-1 tvg-id"2000" group-title="TR",MAVIKARADENIZ
 http://185.246.210.44:2200/TR/mavikaradeniz-tr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"2001" group-title="TR",DISNEYCHANNEL
 http://89.187.169.204:2200/TR/disneychannel-tr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -1876,7 +1872,7 @@ http://185.246.210.46:2200/EX/KR_Badinan_HD-kr/index.m3u8?token=RED_q-aNvc70-pJw
 #EXTINF:-1 tvg-id"2413" group-title="KR",KR_NUBAR_HD
 http://185.59.222.171:2200/EX/KR_Nubar_HD-kr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"2414" group-title="HD",RENG
+#EXTINF:-1 tvg-id"2414" group-title="KR",RENG
 http://89.187.169.203:2200/KN/Reng-HD-kr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"2415" group-title="KR",NEWLINE2
@@ -1891,7 +1887,7 @@ http://185.93.2.137:2200/KN/Minara-HD-kr/index.m3u8?token=RED_q-aNvc70-pJwH7_4Rf
 #EXTINF:-1 tvg-id"2418" group-title="KR",MAXTV
 http://89.187.169.202:2200/KN/MaxTV-kr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"2419" group-title="HD",KOMAL
+#EXTINF:-1 tvg-id"2419" group-title="KR",KOMAL
 http://89.187.169.203:2200/KN/Komal-HD-kr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"2420" group-title="KR",RASAN
@@ -2656,7 +2652,7 @@ http://89.187.169.206:2200/NL/la5-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ
 #EXTINF:-1 tvg-id"2966" group-title="IT",TOP_CRIME
 http://89.187.169.203:2200/NI-EX/TOP_CRIME-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"2967" group-title="ITALY",CARTOONITO
+#EXTINF:-1 tvg-id"2967" group-title="IT",CARTOONITO
 http://89.187.169.206:2200/NI-EX/CARTOONITO-itALY-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"2968" group-title="IT",IRIS
@@ -2700,10 +2696,6 @@ http://185.246.210.48:2200/NLH/Comedy_Central_NL-nl/index.m3u8?token=RED_q-aNvc7
 
 #EXTINF:-1 tvg-id"2986" group-title="DE",N24DOKU
 http://185.246.210.47:2200/NL/n24doku-de/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
-
-
 
 #EXTINF:-1 tvg-id"4010" group-title="NL",CARTOON_NETWORK_NL
 http://185.246.210.44:2200/NLH/Cartoon_Network_NL-nl/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -3074,8 +3066,6 @@ http://89.187.169.201:2200/NLH/Discovery_Science_NL-nl/index.m3u8?token=RED_q-aN
 #EXTINF:-1 tvg-id"4399" group-title="BUL",DIEMAFAMILY
 http://185.246.210.48:2200/NL/diemafamily-bul/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"5572" group-title="AR",BEIN8HD
 http://89.187.169.203:2200/EX/bein8hd-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -3105,10 +3095,6 @@ http://89.187.169.203:2200/TR/atvaladalahhd-ar/index.m3u8?token=RED_q-aNvc70-pJw
 
 #EXTINF:-1 tvg-id"5586" group-title="TR",MILYON
 http://185.93.2.137:2200/TR/milyon-tr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
-
-
 
 #EXTINF:-1 tvg-id"7634" group-title="UK",CHANNEL4
 http://185.246.210.48:2200/NL/channel4-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -3181,8 +3167,6 @@ http://185.246.210.48:2200/TN/binothaimeen-ar/index.m3u8?token=RED_q-aNvc70-pJwH
 
 #EXTINF:-1 tvg-id"7661" group-title="AR",DABANGASUDAN
 http://89.187.169.205:2200/TR/dabangasudan-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"8911" group-title="UK",E4
 http://195.181.172.83:2200/NL/e4-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -3406,7 +3390,7 @@ http://89.187.169.205:2200/NI-EX/Food_Network-it/index.m3u8?token=RED_q-aNvc70-p
 #EXTINF:-1 tvg-id"9032" group-title="IT",PARAMOUNT_CHANNEL
 http://89.187.169.204:2200/NI-EX/Paramount_Channel-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"9034" group-title="CINEMA_DUE_HD",SKY
+#EXTINF:-1 tvg-id"9034" group-title="IT",SKY
 http://185.246.210.44:2200/NI-EX/SKY-CINEMA_DUE_HD-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"9038" group-title="ESP",TOROSTVHD
@@ -3415,7 +3399,7 @@ http://185.246.210.47:2200/NL/torostvhd-esp/index.m3u8?token=RED_q-aNvc70-pJwH7_
 #EXTINF:-1 tvg-id"9040" group-title="IT",TV8
 http://185.246.210.46:2200/NI-EX/TV8-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"9042" group-title="SPORT_F1_HD",SKY
+#EXTINF:-1 tvg-id"9042" group-title="IT,SKY
 http://185.246.210.46:2200/NI-EX/SKY-SPORT_F1_HD-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"9043" group-title="IT",COMEDY_CENTRAL_HD
@@ -3547,7 +3531,7 @@ http://89.187.169.201:2200/TR/awdeh-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4Rfzg
 #EXTINF:-1 tvg-id"9111" group-title="AR",ALAOULAINTERHD
 http://185.93.2.137:2200/NL/alaoulaInterhd-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"9113" group-title="ANVC70",INDEX.M3U8?TOKEN=RED_Q
+#EXTINF:-1 tvg-id"9113" group-title="PA",INDEX.M3U8?TOKEN=RED_Q
 http://185.246.210.48:2200/EX-lahorenewstv-pa/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"9114" group-title="AR",PALESTINESPORT
@@ -3679,8 +3663,6 @@ http://185.246.210.44:2200/TN/alhilaltv-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4
 #EXTINF:-1 tvg-id"9304" group-title="AR",YARMOUK
 http://185.246.210.48:2200/TR/yarmouk-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"9360" group-title="KR",KR_HELHELOK_HD
 http://89.187.169.205:2200/EX/KR_Helhelok_HD-kr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -3707,10 +3689,6 @@ http://89.187.169.206:2200/TN/sharqiyakalba-ar/index.m3u8?token=RED_q-aNvc70-pJw
 
 #EXTINF:-1 tvg-id"9743" group-title="TR",TV2HD
 http://89.187.169.203:2200/TR/tv2hd-tr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
-
-
 
 #EXTINF:-1 tvg-id"11324" group-title="AR",MTA3ALARABIYAH
 http://89.187.169.201:2200/TN/mta3alarabiyah-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -3904,8 +3882,6 @@ http://185.246.210.46:2200/TR/ebstv-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4Rfzg
 #EXTINF:-1 tvg-id"11396" group-title="AR",ALAHD
 http://89.187.169.206:2200/TN/alahd-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"11399" group-title="FA",FA_IMAM_HUSAIN_1
 http://89.187.169.205:2200/EX/FA_Imam_Husain_1-fa/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -3989,8 +3965,6 @@ http://185.246.210.44:2200/NL-N/ITV_London_HD-uk/index.m3u8?token=RED_q-aNvc70-p
 
 #EXTINF:-1 tvg-id"11430" group-title="UK",ITV3_HD
 http://185.246.210.45:2200/NL-N/ITV3_HD-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"13119" group-title="BR",NHK
 http://50.7.34.154:2200/BR/NHK-br/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -4150,8 +4124,6 @@ http://50.7.34.154:2200/BR/fishtvhd-br/index.m3u8?token=RED_q-aNvc70-pJwH7_4Rfzg
 
 #EXTINF:-1 tvg-id"13369" group-title="BR",TV5
 http://50.7.34.154:2200/BR/tv5-br/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"13404" group-title="BR",TVSENADO
 http://50.7.34.154:2200/BR/tvsenado-br/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -4744,8 +4716,6 @@ http://89.187.169.204:2200/EX/kinomiks-ru/index.m3u8?token=RED_q-aNvc70-pJwH7_4R
 #EXTINF:-1 tvg-id"13866" group-title="RU",TVXXI
 http://89.187.169.204:2200/EX/tvxxi-ru/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"13883" group-title="RU",BOLLYWOODHD
 http://89.187.169.204:2200/EX/bollywoodhd-ru/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -5310,12 +5280,6 @@ http://185.246.210.48:2200/NL/mtamuslimtv-uk/index.m3u8?token=RED_q-aNvc70-pJwH7
 #EXTINF:-1 tvg-id"14300" group-title="BUL",TIANKOVTV
 http://185.246.210.45:2200/NL/tiankovtv-bul/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id"18088" group-title="BUL",FOXLIFE
 http://89.187.169.203:2200/NL/foxlife-bul/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -5459,8 +5423,6 @@ http://89.187.169.204:2200/NL/cazaypescahd-esp/index.m3u8?token=RED_q-aNvc70-pJw
 
 #EXTINF:-1 tvg-id"18305" group-title="ESP",MGOLFHD
 http://185.246.210.45:2200/NL/mgolfhd-esp/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"18306" group-title="ESP",VIAJARHD
 http://185.246.210.46:2200/NL/viajarhd-esp/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -5648,8 +5610,6 @@ http://185.246.210.47:2200/TR/vizyon58-tr/index.m3u8?token=RED_q-aNvc70-pJwH7_4R
 #EXTINF:-1 tvg-id"19259" group-title="UK",COMEDY_CENTRAL_HD
 http://89.187.169.206:2200/EX/Comedy_Central_HD-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"19657" group-title="NL",FOX_NL
 http://89.187.169.206:2200/NLH/Fox_NL-nl/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -5701,8 +5661,6 @@ http://89.187.169.201:2200/NL/truechristmas-uk/index.m3u8?token=RED_q-aNvc70-pJw
 #EXTINF:-1 tvg-id"20530" group-title="UK",QVCCHRISTMAS
 http://185.246.210.48:2200/NL/qvcchristmas-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"20694" group-title="GR",STAR
 http://89.187.169.201:2200/B-EX/Star-gr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -5711,8 +5669,6 @@ http://185.246.210.47:2200/B-EX/Nickelodeon-gr/index.m3u8?token=RED_q-aNvc70-pJw
 
 #EXTINF:-1 tvg-id"20824" group-title="IT",LA_5
 http://89.187.169.205:2200/NI-EX/LA_5-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"21683" group-title="AR",BEIN_FOX_ACTION
 http://89.187.169.202:2200/EX/beIN_Fox_Action-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -5740,14 +5696,6 @@ http://89.187.169.204:2200/TR/tishkhd-kr/index.m3u8?token=RED_q-aNvc70-pJwH7_4Rf
 
 #EXTINF:-1 tvg-id"21720" group-title="SWE",N
 http://89.187.169.205:2200/EX/N-SWE/C_More_First_HD-sc/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id"21794" group-title="BE",BE_PLAY_SPORTS_4
 http://89.187.169.201:2200/A-EX/BE_PLAY_SPORTS_4-be/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -5823,8 +5771,6 @@ http://185.246.210.45:2200/TR/gemtvplushd-fa/index.m3u8?token=RED_q-aNvc70-pJwH7
 
 #EXTINF:-1 tvg-id"21839" group-title="FA",RADIONAMAAVA
 http://185.246.210.47:2200/TR/radionamaava-fa/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"21843" group-title="UK",LFCTV_HD
 http://89.187.169.202:2200/EX/LFCTV_HD-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -6483,8 +6429,6 @@ http://195.181.172.83:2200/EX/SPORT_KLUB_1_HD-balkan/index.m3u8?token=RED_q-aNvc
 #EXTINF:-1 tvg-id"22842" group-title="BALKAN",SPORTSKA_TV
 http://89.187.169.204:2200/EX/Sportska_TV-balkan/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"22844" group-title="BALKAN",MREZA_TV_ZAGREB
 http://89.187.169.203:2200/EX/Mreza_TV_Zagreb-balkan/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -6605,20 +6549,14 @@ http://185.246.210.47:2200/NL/hobbylov-bul/index.m3u8?token=RED_q-aNvc70-pJwH7_4
 #EXTINF:-1 tvg-id"23033" group-title="IT",LA_7
 http://185.246.210.45:2200/NI-EX/LA_7-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"26651" group-title="BR",ESPN_BRASIL_HD
 http://50.7.34.154:2200/PY-N/ESPN_Brasil_HD-br/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"27932" group-title="AF",AMHARA_TV_HD
 http://185.246.210.44:2200/TR-N/Amhara_TV_HD-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"28737" group-title="AF",OBN_TV_HD
 http://89.187.169.205:2200/TR-N/OBN_TV_HD-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"28975" group-title="AF",NAHOO_TV_HD
 http://185.93.2.137:2200/TR-N/Nahoo_TV_HD-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -6923,8 +6861,6 @@ http://185.246.210.48:2200/EX/FR_AB_MOTEURS-fr/index.m3u8?token=RED_q-aNvc70-pJw
 #EXTINF:-1 tvg-id"32111" group-title="FR",FR_TEVA_HD
 http://185.59.222.171:2200/EX/FR_TEVA_HD-fr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"32125" group-title="FR",FR_RMC_SPORT2_HD
 http://89.187.169.202:2200/EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -6982,8 +6918,6 @@ http://89.187.169.204:2200/EX/FR_TOUTE_LHISTOIRE-fr/index.m3u8?token=RED_q-aNvc7
 #EXTINF:-1 tvg-id"32580" group-title="FR",FR_TOONAMI
 http://185.246.210.44:2200/EX/FR_TOONAMI-fr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"35646" group-title="IT",IT:EUROSPORT_1
 http://89.187.169.201:2200/NI-EX/IT:EUROSPORT_1-it/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -7001,8 +6935,6 @@ http://195.181.172.83:2200/TN/alimantv-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4R
 
 #EXTINF:-1 tvg-id"35681" group-title="AR",HAYATTVALGERIA
 http://89.187.169.201:2200/TN/hayattvalgeria-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"36353" group-title="ESP",EITBEUS1HD
 http://89.187.169.205:2200/EX/eitbeus1hd-esp/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -7022,7 +6954,7 @@ http://185.59.222.171:2200/TR-N/Alrai_HD-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_
 #EXTINF:-1 tvg-id"36402" group-title="AR",IRAQIA_SPORT_HD
 http://89.187.169.201:2200/TR-N/Iraqia_Sport_HD-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"36409" group-title="ARABI_HD",KUWAIT_AL
+#EXTINF:-1 tvg-id"36409" group-title="AR",KUWAIT_AL
 http://89.187.169.201:2200/TR-N/Kuwait_Al-Arabi_HD-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"36416" group-title="AR",KUWAIT_ETHRAA_HD
@@ -7058,8 +6990,6 @@ http://89.187.169.206:2200/TR/watan2-afg/index.m3u8?token=RED_q-aNvc70-pJwH7_4Rf
 #EXTINF:-1 tvg-id"37942" group-title="GR",EPT_SPORTS_HD
 http://185.246.210.44:2200/B-EX/EPT_Sports_HD-gr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"40168" group-title="BALKAN",FINE_LIVING
 http://185.246.210.45:2200/EX/Fine_Living-balkan/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -7083,8 +7013,6 @@ http://185.246.210.45:2200/EX/Medina_TV-balkan/index.m3u8?token=RED_q-aNvc70-pJw
 
 #EXTINF:-1 tvg-id"41736" group-title="BALKAN",O_KANAL_HD
 http://89.187.169.203:2200/EX/O_Kanal_HD-balkan/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-
-
 
 #EXTINF:-1 tvg-id"42387" group-title="POR",ELEVENSPORTS1HD
 http://185.59.222.171:2200/NL/elevensports1hd-por/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
@@ -7938,7 +7866,7 @@ http://195.181.172.83:2200/TR-N/Star_TV_HD-tr/index.m3u8?token=RED_q-aNvc70-pJwH
 #EXTINF:-1 tvg-id"46251" group-title="TR",BLOOMBERGHT_HD
 http://185.246.210.46:2200/TR-N/BLOOMBERGHT_HD-tr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"46252" group-title="A",T
+#EXTINF:-1 tvg-id"46252" group-title="TR",T
 http://89.187.169.202:2200/TR-N/T-A-Y_TV_HD-tr/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"46253" group-title="TR",A2_HD
@@ -8286,7 +8214,7 @@ http://89.187.169.204:2200/TR-N/Scope_TV_HD-ar/index.m3u8?token=RED_q-aNvc70-pJw
 #EXTINF:-1 tvg-id"46389" group-title="AR",TIME_SPORTS_HD
 http://185.59.222.171:2200/TR-N/TIME_SPORTS_HD-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"46390" group-title="ALADALAH_HD",ATV
+#EXTINF:-1 tvg-id"46390" group-title="AR_HD",ATV
 http://89.187.169.202:2200/TR-N/atv-ALADALAH_HD-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"46391" group-title="AR",AJMAN_HD
@@ -8328,8 +8256,6 @@ http://185.93.2.137:2200/TR-N/Iraqia_News_HD-ar/index.m3u8?token=RED_q-aNvc70-pJ
 #EXTINF:-1 tvg-id"46407" group-title="AR",KUWAIT_TV_2_HD
 http://89.187.169.201:2200/TR-N/Kuwait_TV_2_HD-ar/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-
-
 #EXTINF:-1 tvg-id"46410" group-title="AZ",CBC_SPORT_HDTV
 http://89.187.169.201:2200/TR-N/CBC_Sport_HDtv-az/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
@@ -8357,7 +8283,7 @@ http://89.187.169.205:2200/NL-N/3sat_HD-de/index.m3u8?token=RED_q-aNvc70-pJwH7_4
 #EXTINF:-1 tvg-id"46419" group-title="DE",ANIXE_HD
 http://185.246.210.46:2200/NL-N/ANIXE_HD-de/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"46420" group-title="ALPHA_HD",ARD
+#EXTINF:-1 tvg-id"46420" group-title="DE",ARD
 http://89.187.169.205:2200/NL-N/ARD-alpha_HD-de/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"46421" group-title="DE",ARTE_HD
@@ -8519,10 +8445,10 @@ http://89.187.169.202:2200/NL-N/RTL_HD-de/index.m3u8?token=RED_q-aNvc70-pJwH7_4R
 #EXTINF:-1 tvg-id"46484" group-title="DE",RTLPLUS
 http://185.93.2.137:2200/NL/rtlplus-de/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"46485" group-title="1_GOLD_HD",SAT
+#EXTINF:-1 tvg-id"46485" group-title="DE",SAT
 http://185.246.210.48:2200/NL-N/SAT-1_Gold_HD-de/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"46486" group-title="1_HD",SAT
+#EXTINF:-1 tvg-id"46486" group-title="DE",SAT
 http://185.246.210.44:2200/NL-N/SAT-1_HD-de/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"46487" group-title="DE",SIXX_HD
@@ -12904,7 +12830,7 @@ http://89.187.169.203:2200/N-EX/EAF_Jesus_TV__ET-af/index.m3u8?token=RED_q-aNvc7
 #EXTINF:-1 tvg-id"49580" group-title="AF",EAF_KALE_AWADI_TV_ET
 http://185.246.210.48:2200/N-EX/EAF_Kale_Awadi_TV_ET-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
-#EXTINF:-1 tvg-id"49581" group-title="CIL_TV_ET",EAF_MAR
+#EXTINF:-1 tvg-id"49581" group-title="AF",EAF_MAR
 http://89.187.169.202:2200/N-EX/EAF_Mar-Cil_TV_ET-af/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
 #EXTINF:-1 tvg-id"49582" group-title="AF",EAF_MEAZER_SEMAY__ET
