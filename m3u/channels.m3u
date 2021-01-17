@@ -6,6 +6,12 @@ https://usher.ttvnw.net/api/channel/hls/newsfirstsl.m3u8?allow_source=true&fast_
 #EXTINF:-1 group-title="SL",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="SL",Hiru TV
+http://cp1.serverse.com:1935/8012/8012/media.m3u8
+
+#EXTINF:-1 group-title="SL",Rupavahini
+http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
+
 #EXTINF:-1 group-title="UK",ptcpunjabi
 http://89.187.169.204:2200/NL/ptcpunjabi-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
