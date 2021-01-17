@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="SL",Sirasa TV
+https://usher.ttvnw.net/api/channel/hls/newsfirstsl.m3u8?allow_audio_only=true&allow_source=true&cdm=wv&fast_bread=true&play_session_id=5d4bc58e2b57442694f334fdc6474995&player_backend=mediaplayer&player_type=pulsar&player_version=1.2.0&playlist_include_framerate=true&sig=6d378fabb930226c1173a7c3c25ecc24d00c65ae&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22newsfirstsl%22%2C%22channel_id%22%3A434583230%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2270vA2WCZFD9hCXbE5R1aKOkssctWQlTd%22%2C%22expires%22%3A1610889508%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Afalse%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2292.97.223.31%22%2C%22version%22%3A2%7D&warp=true
+
 #EXTINF:-1 group-title="UK",ptcpunjabi
 http://89.187.169.204:2200/NL/ptcpunjabi-uk/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
 
